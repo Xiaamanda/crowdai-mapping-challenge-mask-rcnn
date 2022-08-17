@@ -53,3 +53,4 @@ You are encouraged to checkout [https://github.com/matterport/Mask_RCNN](https:/
 
 # Author
 Sharada Mohanty [sharada.mohanty@epfl.ch](sharada.mohanty@epfl.ch)
+夏梦娇的修改
